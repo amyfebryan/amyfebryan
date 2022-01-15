@@ -3,7 +3,7 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-				{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Saenai%20Heroine%20no%20Sodatekata%20Fine%20%5bBD%5d%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/saenai.jpg",
@@ -252,6 +252,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2019",
 		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Saenai%20Heroine%20no%20Sodatekata%20Fine%20%5bBD%5d%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/saenai.jpg",
+				"movieName": "Saenai Heroine no Sodatekata Fine",
+				"movieDes": "Setelah Blessing Software mengumumkan karya pertama mereka, Eriri dan Utaha keluar dari circle untuk bergabung dengan creator populer, Akane Kosaka, untuk mengembangkan game besar bernama Fields Chronicle. Sementara itu, Tomoya dan Megumi bekerja sama dengan anggota baru mereka dan berbagai pihak lain untuk memproduksi game baru mereka. Setelah mengumumkan persaingan besar antara kedua kelompok itu, terjadi insiden besar yang mempengaruhi kelanjutan Fields Chronicle. Dan sebagai hasilnya, hal itu mempengaruhi kelanjutan hubungan antara Tomoya, Megumi, Eriri, dan Utaha.",
+				"movieDurasi": "01:54",
+				"movieDate": "26/Oktober/2019",
+				"movieGenre": "Comedy, Romance, Ecchi, Harem, School",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/09/saekano-fine-subtitle-indonesia.html",
+				"movieSub": "BDFansub"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d%20Dayang%20Cuaca%20%5bBD%5d%5bx265%5d%5b720HD%5d%5bAA4B36LJ%5d.mkv",
 				"id": 5,
