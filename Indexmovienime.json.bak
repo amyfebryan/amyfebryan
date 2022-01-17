@@ -30,7 +30,7 @@
 				"movieSub": "BDFansub"
 			},
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bBDFansub%5d%20Asagao%20to%20Kase-san%20%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bHuntersekai%5d%20Asagao%20to%20Kase-san%20OVA%20%5b720HD%5d%5bAACAB287%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/Asagao.jpg",
 				"movieName": "Asagao to Kase-san",
@@ -38,9 +38,9 @@
 				"movieDurasi": "00:58",
 				"movieDate": "09/Juni/2018",
 				"movieGenre": "Girls Love, Romance, Shcool, Shoujo",
-				"movieRating": "PG-13",
-				"movieDownload": "https://bdfansub.blogspot.com/2020/05/asagao-to-kase-san-bd-subtitle-indonesia.html",
-				"movieSub": "BDFansub"
+				"movieRating": "R-17+",
+				"movieDownload": "http://www.huntersekai.download/2018/06/asagao-to-kase-san-ova.html",
+				"movieSub": "Hunter No Sekai"
 			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d%20Dayang%20Cuaca%20%5bBD%5d%5bx265%5d%5b720HD%5d%5bAA4B36LJ%5d.mkv",
@@ -353,7 +353,7 @@
 		"categoryTitle": "2018",
 		"categoryItemList": [
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bBDFansub%5d%20Asagao%20to%20Kase-san%20%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bHuntersekai%5d%20Asagao%20to%20Kase-san%20OVA%20%5b720HD%5d%5bAACAB287%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/Asagao.jpg",
 				"movieName": "Asagao to Kase-san",
@@ -362,8 +362,8 @@
 				"movieDate": "09/Juni/2018",
 				"movieGenre": "Girls Love, Romance, Shcool, Shoujo",
 				"movieRating": "R-17+",
-				"movieDownload": "https://bdfansub.blogspot.com/2020/05/asagao-to-kase-san-bd-subtitle-indonesia.html",
-				"movieSub": "BDFansub"
+				"movieDownload": "http://www.huntersekai.download/2018/06/asagao-to-kase-san-ova.html",
+				"movieSub": "Hunter No Sekai"
 			}
 		]
 	},
