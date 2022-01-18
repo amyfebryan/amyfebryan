@@ -3,70 +3,57 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Saenai%20Heroine%20no%20Sodatekata%20Fine%20%5bBD%5d%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
+							{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2016/%5bBDFansub%5d%20Kimi%20no%20Na%20wa%20%5b1080p%5d%5bAAC%5d%5bx265%5d.mkv",
 				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/saenai.jpg",
-				"movieName": "Saenai Heroine no Sodatekata Fine",
-				"movieDes": "Setelah Blessing Software mengumumkan karya pertama mereka, Eriri dan Utaha keluar dari circle untuk bergabung dengan creator populer, Akane Kosaka, untuk mengembangkan game besar bernama Fields Chronicle. Sementara itu, Tomoya dan Megumi bekerja sama dengan anggota baru mereka dan berbagai pihak lain untuk memproduksi game baru mereka. Setelah mengumumkan persaingan besar antara kedua kelompok itu, terjadi insiden besar yang mempengaruhi kelanjutan Fields Chronicle. Dan sebagai hasilnya, hal itu mempengaruhi kelanjutan hubungan antara Tomoya, Megumi, Eriri, dan Utaha.",
-				"movieDurasi": "01:54",
-				"movieDate": "26/Oktober/2019",
-				"movieGenre": "Comedy, Romance, Ecchi, Harem, School",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/nawa.jpg",
+				"movieName": "Kimi no Na wa.",
+				"movieDes": "Menceritakan seorang gadis bernama Mitsuha Miyamizu yang tinggal di pedesaan dengan kehidupan rutinitas sebagai seorang pelajar, ia bisa menenun dan juga membuat sake untuk dipersembahkan kepada dewa. Di sisi lain ada seorang remaja lelaki bernama Taki tachibana yang tinggal di perkotaan, Tokyo dengan kehidupan rutinitasi sebagai seorang pelajar, dan pekerja paruh waktu di restoran Italia. Suatu hari Mitsuha membenci kehidupannya yang tinggal di pedesaan, ia berharap untuk tinggal di perkotaan khususnya di Tokyo dan menjadi seorang lelaki tampan di kota tersebut. Tidak lama Mitsuha mengharapkan hal tersebut, suatu hari dia bermimpi menjadi seorang lelaki yang hidup di Tokyo dengan rutinitas yang berbeda dari kehidupannya sehari-hari, di sisi lain Taki juga bermimpi menjadi seorang wanita cantik yang hidup di pedesaan dengan kehidupan rutinitas yang berbeda dari biasanya. Apa maksud semua mimpi ini? mimpi tersebut akan membuat mereka perlahan-lahan menghadapi kehidupan rutinitas yang berbeda dari biasanya.",
+				"movieDurasi": "01:46",
+				"movieDate": "26/Agustus/2016",
+				"movieGenre": "Drama, Romance, Supernatural, School",
 				"movieRating": "PG-13",
-				"movieDownload": "https://bdfansub.blogspot.com/2020/09/saekano-fine-subtitle-indonesia.html",
+				"movieDownload": "https://bdfansub.blogspot.com/2019/04/kimi-no-na-wa-bd-subtitle-indonesia.html",
+				"movieSub": "BDFansub"
+			},
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bBDFansub%5d%20Fireworks%20-%20Uchiage%20Hanabi%20%5bBD%5d%5b1080p%5d%5bx265%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hanabi.jpg",
+				"movieName": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+				"movieDes": "Film ini menceritakan kejadian di musim panas di mana sekelompok pemuda ingin melihat kembang api dari mercusuar kota sambil bertanya apakah kembang api berbentuk lingkaran atau datar jika dilihat dari sisi yang berbeda. Seorang cewek bernama Nazuna mengajak Norimichi yang menyukai Nazuna untuk kabur bersamanya. Nasib apa yang menanti kedua orang ini dalam hari-hari yang terus mengulang terus menurus dan mereka terjebak di dalamnya?",
+				"movieDurasi": "01:30",
+				"movieDate": "18/Agustus/2017",
+				"movieGenre": "Sci-Fi, Romance",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/01/uchiage-hanabi-movie-subtitle-indonesia.html",
 				"movieSub": "BDFansub"
 			},
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bBDFansub%5d%20Goblin%20Slayer%20-%20Goblin's%20Crown%20%5bBD%5d%5b1080p%5d%5bx265%5d%5b10bit%5d.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Grisaia%20Phantom%20Trigger%20-%2002%20%5b1080p%5d%5bx265%5d.mkv",
 				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/goblin.jpg",
-				"movieName": "Goblin Slayer - Goblin's Crown",
-				"movieDes": "Goblin Slayer dan rombongannya menuju ke pegunungan bersalju di utara setelah menerima permintaan dari Sword Maiden.  Sebuah desa kecil diserang, mereka menemukan kapel misterius, dan sesuatu tentang bagaimana goblin ini bertindak mengganggu Goblin Slayer.",
-				"movieDurasi": "01:54",
-				"movieDate": "01/Februari/2020",
-				"movieGenre": "Action, Adventure, Fantasy",
-				"movieRating": "R-17+",
-				"movieDownload": "https://bdfansub.blogspot.com/2020/09/goblin-slayer-movie-bd-subtitle-indonesia.html",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/phantom.jpg",
+				"movieName": "Grisaia: Phantom Trigger The Animation EP2",
+				"movieDes": "Setelah insiden Heath Oslo, keberadaan organisasi anti teror US-Jepang CIRS menjadi sebuah informasi publik. CIRS kembali dibuat dari bawah ke atas, dan banyak divisi yang membutuhkan operasi tersembunyi menjadi sebuah agensi baru bernama SORD (Social Ops, Research & Development). Tujuan dari SORD adalah membina generasi baru yang dapat melindungi negara melawan ancaman di masa depan. Untuk tujuan itu, SORD mendirikan sekolah-sekolah di seluruh negeri. Akademi Mihama, atau setidaknya apa yang tersisa dari akademi tersebut sudah akan ditutup, namun diberikan tujuan ‘baru’ untuk melatih generasi baru sebagai spesialis.",
+				"movieDurasi": "01:40",
+				"movieDate": "15/Maret/2019",
+				"movieGenre": "Action, School, Physchological",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2019/07/grisaia-phantom-trigger-sub-indo.html",
 				"movieSub": "BDFansub"
 			},
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bHuntersekai%5d%20Asagao%20to%20Kase-san%20OVA%20%5b720HD%5d%5bAACAB287%5d.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Grisaia%20Phantom%20Trigger%20-%2001%20%5b1080p%5d%5bx265%5d.mkv",
 				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/Asagao.jpg",
-				"movieName": "Asagao to Kase-san",
-				"movieDes": "Yui Yamada, gadis SMA yang menyukai tanaman dan berkebun, mulai berkencan dengan Tomoka Kase, jagoan tim olahraga lari di sekolahnya.  Yui pemalu, girly, dan belum pernah menjalin hubungan.  Di sisi lain, Tomoka lincah, tomboy, dan populer di kalangan teman-temannya.  Meski berbeda dalam banyak hal, mereka mencoba memahami dan mendukung satu sama lain sambil merasakan deru kegembiraan yang mengiringi keajaiban cinta pertama.",
-				"movieDurasi": "00:58",
-				"movieDate": "09/Juni/2018",
-				"movieGenre": "Girls Love, Romance, Shcool, Shoujo",
-				"movieRating": "R-17+",
-				"movieDownload": "http://www.huntersekai.download/2018/06/asagao-to-kase-san-ova.html",
-				"movieSub": "Hunter No Sekai"
-			},
-			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d%20Dayang%20Cuaca%20%5bBD%5d%5bx265%5d%5b720HD%5d%5bAA4B36LJ%5d.mkv",
-				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/tenki.jpg",
-				"movieName": "Tenki no Ko",
-				"movieDes": "Seorang anak muda dari desa terpencil di Shikoku, yang meninggalkan rumah dan memutuskan untuk tinggal di Tokyo. Dalam perjalanannya, dia bertemu dengan Keisuke, seorang pria aneh yang menawarkan bantuan kepadanya. Merasa aneh dengan orang tersebut, Hodoka memutuskan untuk mencoba mencari peruntungan yang lain. Namun dia menghadapi kesulitan yang datang silih berganti dalam perjalannya.",
-				"movieDurasi": "01:52",
-				"movieDate": "19/Juli/2019",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/phantom.jpg",
+				"movieName": "Grisaia: Phantom Trigger The Animation EP1",
+				"movieDes": "Setelah insiden Heath Oslo, keberadaan organisasi anti teror US-Jepang CIRS menjadi sebuah informasi publik. CIRS kembali dibuat dari bawah ke atas, dan banyak divisi yang membutuhkan operasi tersembunyi menjadi sebuah agensi baru bernama SORD (Social Ops, Research & Development). Tujuan dari SORD adalah membina generasi baru yang dapat melindungi negara melawan ancaman di masa depan. Untuk tujuan itu, SORD mendirikan sekolah-sekolah di seluruh negeri. Akademi Mihama, atau setidaknya apa yang tersisa dari akademi tersebut sudah akan ditutup, namun diberikan tujuan ‘baru’ untuk melatih generasi baru sebagai spesialis.",
+				"movieDurasi": "01:40",
+				"movieDate": "15/Maret/2019",
+				"movieGenre": "Action, School, Physchological",
 				"movieRating": "PG-13",
-				"movieGenre": "Drama, Fantasy, Romance, Slice of Life",
-				"movieDownload": "http://www.huntersekai.download/2020/05/tenki-no-ko-bd-2019-subtitle-indonesia.html",
-				"movieSub": "Hunter No Sekai"
-			},
-			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d%20Fragtime%20(2019)%20BD%20Movie%20%5b720HD%5d%5bCBCC9F5C%5d.mkv",
-				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/frag.jpg",
-				"movieName": "Fragtime",
-				"movieDes": "Waktu adalah suatu hal yang tidak bisa dihentikan, namun bagaimana jika kamu mendapatkan kemampuan untuk menghentikan waktu? Misuzu Moritani, ia terlihat seorang gadis SMA biasa namun ia memiliki kemampuan untuk menghentikan waktu selama 3 menit dalam 1 hari. Suatu saat ia ingin mencoba menggunakan kemampuannya untuk melihat celana dalam dari siswi idola di kelasnya, Haruka Murakami. Sangat mengejutkannya bahwa ternyata Haruka tidak terpengaruh oleh kemampuan Misuzu.",
-				"movieDurasi": "01:00",
-				"movieDate": "22/November/2019",
-				"movieGenre": "Girls Love, Romance, Sci-Fi, Slice of Life, School",
-				"movieRating": "PG-13",
-				"movieDownload": "http://www.huntersekai.download/2020/05/fragtime-ova-subtitle-indonesia.html",
-				"movieSub": "Hunter No Sekai"
+				"movieDownload": "https://bdfansub.blogspot.com/2019/07/grisaia-phantom-trigger-sub-indo.html",
+				"movieSub": "BDFansub"
 			}
 		]
 	},
@@ -76,7 +63,7 @@
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5bBDFansub%5d%20Girls%20und%20Panzer%20Das%20Finale%20-%2003%20%5bBD%5d%5bx265%5d%5b1080p%5d%5b60FPS%5d.mkv",
-				"id": 4,
+				"id": 7,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer%203.jpg",
 				"movieName": "Girls & Panzer: Saishuushou Part 3",
 				"movieDes": "Kelanjutan dari Part 2. Meskipun berada di atas angin, BC Freedom High School menderita kekalahan telak di tangan Ooarai Girls Academy.  Setelah kemenangan mereka, gadis-gadis Ooarai memutuskan untuk istirahat sebelum babak berikutnya.  Setelah mengetahui bahwa Momo Kawashima merawat keluarganya saat belajar untuk ujian masuk universitas, tim Ooarai lainnya menjadi lebih bertekad untuk memenangkan Winter Continuous Track Cup demi Momo dan keluarganya.",
@@ -173,7 +160,7 @@
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bBDFansub%5d%20Goblin%20Slayer%20-%20Goblin's%20Crown%20%5bBD%5d%5b1080p%5d%5bx265%5d%5b10bit%5d.mkv",
-				"id": 4,
+				"id": 7,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/goblin.jpg",
 				"movieName": "Goblin Slayer - Goblin's Crown",
 				"movieDes": "Goblin Slayer dan rombongannya menuju ke pegunungan bersalju di utara setelah menerima permintaan dari Sword Maiden.  Sebuah desa kecil diserang, mereka menemukan kapel misterius, dan sesuatu tentang bagaimana goblin ini bertindak mengganggu Goblin Slayer.",
@@ -269,8 +256,34 @@
 		"categoryTitle": "2019",
 		"categoryItemList": [
 			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Grisaia%20Phantom%20Trigger%20-%2002%20%5b1080p%5d%5bx265%5d.mkv",
+				"id": 8,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/phantom.jpg",
+				"movieName": "Grisaia: Phantom Trigger The Animation EP2",
+				"movieDes": "Setelah insiden Heath Oslo, keberadaan organisasi anti teror US-Jepang CIRS menjadi sebuah informasi publik. CIRS kembali dibuat dari bawah ke atas, dan banyak divisi yang membutuhkan operasi tersembunyi menjadi sebuah agensi baru bernama SORD (Social Ops, Research & Development). Tujuan dari SORD adalah membina generasi baru yang dapat melindungi negara melawan ancaman di masa depan. Untuk tujuan itu, SORD mendirikan sekolah-sekolah di seluruh negeri. Akademi Mihama, atau setidaknya apa yang tersisa dari akademi tersebut sudah akan ditutup, namun diberikan tujuan ‘baru’ untuk melatih generasi baru sebagai spesialis.",
+				"movieDurasi": "01:40",
+				"movieDate": "15/Maret/2019",
+				"movieGenre": "Action, School, Physchological",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2019/07/grisaia-phantom-trigger-sub-indo.html",
+				"movieSub": "BDFansub"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Grisaia%20Phantom%20Trigger%20-%2001%20%5b1080p%5d%5bx265%5d.mkv",
+				"id": 7,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/phantom.jpg",
+				"movieName": "Grisaia: Phantom Trigger The Animation EP1",
+				"movieDes": "Setelah insiden Heath Oslo, keberadaan organisasi anti teror US-Jepang CIRS menjadi sebuah informasi publik. CIRS kembali dibuat dari bawah ke atas, dan banyak divisi yang membutuhkan operasi tersembunyi menjadi sebuah agensi baru bernama SORD (Social Ops, Research & Development). Tujuan dari SORD adalah membina generasi baru yang dapat melindungi negara melawan ancaman di masa depan. Untuk tujuan itu, SORD mendirikan sekolah-sekolah di seluruh negeri. Akademi Mihama, atau setidaknya apa yang tersisa dari akademi tersebut sudah akan ditutup, namun diberikan tujuan ‘baru’ untuk melatih generasi baru sebagai spesialis.",
+				"movieDurasi": "01:40",
+				"movieDate": "15/Maret/2019",
+				"movieGenre": "Action, School, Physchological",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2019/07/grisaia-phantom-trigger-sub-indo.html",
+				"movieSub": "BDFansub"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Saenai%20Heroine%20no%20Sodatekata%20Fine%20%5bBD%5d%5bx265%5d%5b1080p%5d%5b10bit%5d.mkv",
-				"id": 4,
+				"id": 6,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/saenai.jpg",
 				"movieName": "Saenai Heroine no Sodatekata Fine",
 				"movieDes": "Setelah Blessing Software mengumumkan karya pertama mereka, Eriri dan Utaha keluar dari circle untuk bergabung dengan creator populer, Akane Kosaka, untuk mengembangkan game besar bernama Fields Chronicle. Sementara itu, Tomoya dan Megumi bekerja sama dengan anggota baru mereka dan berbagai pihak lain untuk memproduksi game baru mereka. Setelah mengumumkan persaingan besar antara kedua kelompok itu, terjadi insiden besar yang mempengaruhi kelanjutan Fields Chronicle. Dan sebagai hasilnya, hal itu mempengaruhi kelanjutan hubungan antara Tomoya, Megumi, Eriri, dan Utaha.",
@@ -321,7 +334,7 @@
 				"movieSub": "BDFansub"
 			},
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d_Hello_World.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Halo%20Dunia%20Movie%20%5bBD%5d%5bx265%5d%5b720p%5d%5b60FPS%5d.mkv",
 				"id": 2,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/helloword.jpg",
 				"movieName": "Hello World",
@@ -331,7 +344,7 @@
 				"movieGenre": "Drama, Romance, Sci-Fi",
 				"movieRating": "PG-13",
 				"movieDownload": "http://www.huntersekai.download/2020/04/hello-world-movie-bd-2019-subtitle-indonesia.html",
-				"movieSub": "Hunter No Sekai"
+				"movieSub": "BDFansub"
 			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bHuntersekai%5d%20Sembiru%20Langitmu%20(2019)%20BD%20%5b720HD%5d%5bA8F7F323%5d.mkv",
@@ -343,7 +356,7 @@
 				"movieDate": "11/Oktober/2019",
 				"movieGenre": "Drama, Romance, Supernatural, Music",
 				"movieRating": "PG-13",
-				"movieDownload": "http://www.huntersekai.download/2020/06/sembiru-langitmu-bd.html",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/04/hello-world-movie-subtitle-indonesia.html",
 				"movieSub": "Hunter No Sekai"
 			}
 		]
@@ -354,7 +367,7 @@
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bHuntersekai%5d%20Asagao%20to%20Kase-san%20OVA%20%5b720HD%5d%5bAACAB287%5d.mkv",
-				"id": 4,
+				"id": 1,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/Asagao.jpg",
 				"movieName": "Asagao to Kase-san",
 				"movieDes": "Yui Yamada, gadis SMA yang menyukai tanaman dan berkebun, mulai berkencan dengan Tomoka Kase, jagoan tim olahraga lari di sekolahnya.  Yui pemalu, girly, dan belum pernah menjalin hubungan.  Di sisi lain, Tomoka lincah, tomboy, dan populer di kalangan teman-temannya.  Meski berbeda dalam banyak hal, mereka mencoba memahami dan mendukung satu sama lain sambil merasakan deru kegembiraan yang mengiringi keajaiban cinta pertama.",
@@ -371,9 +384,22 @@
 		"categoryId": 1,
 		"categoryTitle": "2017",
 		"categoryItemList": [
+							{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bBDFansub%5d%20Fireworks%20-%20Uchiage%20Hanabi%20%5bBD%5d%5b1080p%5d%5bx265%5d.mkv",
+				"id": 2,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hanabi.jpg",
+				"movieName": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+				"movieDes": "Film ini menceritakan kejadian di musim panas di mana sekelompok pemuda ingin melihat kembang api dari mercusuar kota sambil bertanya apakah kembang api berbentuk lingkaran atau datar jika dilihat dari sisi yang berbeda. Seorang cewek bernama Nazuna mengajak Norimichi yang menyukai Nazuna untuk kabur bersamanya. Nasib apa yang menanti kedua orang ini dalam hari-hari yang terus mengulang terus menurus dan mereka terjebak di dalamnya?",
+				"movieDurasi": "01:30",
+				"movieDate": "18/Agustus/2017",
+				"movieGenre": "Sci-Fi, Romance",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/01/uchiage-hanabi-movie-subtitle-indonesia.html",
+				"movieSub": "BDFansub"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bAcer%5d%20Girls%20Und%20Panzer%20Das%20Finale%20BD%20-%2001%20720P%20%5bKusonime%5d.mkv",
-				"id": 4,
+				"id": 1,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer1.jpg",
 				"categoryTitle": "Girls & Panzer: Saishuushou Part 1",
 				"movieName": "Girls & Panzer: Saishuushou Part 1",
@@ -384,6 +410,25 @@
 				"movieRating": "PG-13",
 				"movieDownload": "https://www.perpusindo.info/user/duta500",
 				"movieSub": "Acer"
+			}
+		]
+	},
+		{
+		"categoryId": 1,
+		"categoryTitle": "2016",
+		"categoryItemList": [
+							{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2016/%5bBDFansub%5d%20Kimi%20no%20Na%20wa%20%5b1080p%5d%5bAAC%5d%5bx265%5d.mkv",
+				"id": 1,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/nawa.jpg",
+				"movieName": "Kimi no Na wa.",
+				"movieDes": "Menceritakan seorang gadis bernama Mitsuha Miyamizu yang tinggal di pedesaan dengan kehidupan rutinitas sebagai seorang pelajar, ia bisa menenun dan juga membuat sake untuk dipersembahkan kepada dewa. Di sisi lain ada seorang remaja lelaki bernama Taki tachibana yang tinggal di perkotaan, Tokyo dengan kehidupan rutinitasi sebagai seorang pelajar, dan pekerja paruh waktu di restoran Italia. Suatu hari Mitsuha membenci kehidupannya yang tinggal di pedesaan, ia berharap untuk tinggal di perkotaan khususnya di Tokyo dan menjadi seorang lelaki tampan di kota tersebut. Tidak lama Mitsuha mengharapkan hal tersebut, suatu hari dia bermimpi menjadi seorang lelaki yang hidup di Tokyo dengan rutinitas yang berbeda dari kehidupannya sehari-hari, di sisi lain Taki juga bermimpi menjadi seorang wanita cantik yang hidup di pedesaan dengan kehidupan rutinitas yang berbeda dari biasanya. Apa maksud semua mimpi ini? mimpi tersebut akan membuat mereka perlahan-lahan menghadapi kehidupan rutinitas yang berbeda dari biasanya.",
+				"movieDurasi": "01:46",
+				"movieDate": "26/Agustus/2016",
+				"movieGenre": "Drama, Romance, Supernatural, School",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2019/04/kimi-no-na-wa-bd-subtitle-indonesia.html",
+				"movieSub": "BDFansub"
 			}
 		]
 	}
