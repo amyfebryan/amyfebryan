@@ -3,7 +3,7 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-							{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2016/%5bBDFansub%5d%20Kimi%20no%20Na%20wa%20%5b1080p%5d%5bAAC%5d%5bx265%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/nawa.jpg",
@@ -16,7 +16,7 @@
 				"movieDownload": "https://bdfansub.blogspot.com/2019/04/kimi-no-na-wa-bd-subtitle-indonesia.html",
 				"movieSub": "BDFansub"
 			},
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bBDFansub%5d%20Fireworks%20-%20Uchiage%20Hanabi%20%5bBD%5d%5b1080p%5d%5bx265%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hanabi.jpg",
@@ -384,7 +384,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2017",
 		"categoryItemList": [
-							{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bBDFansub%5d%20Fireworks%20-%20Uchiage%20Hanabi%20%5bBD%5d%5b1080p%5d%5bx265%5d.mkv",
 				"id": 2,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hanabi.jpg",
@@ -413,11 +413,11 @@
 			}
 		]
 	},
-		{
+	{
 		"categoryId": 1,
 		"categoryTitle": "2016",
 		"categoryItemList": [
-							{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2016/%5bBDFansub%5d%20Kimi%20no%20Na%20wa%20%5b1080p%5d%5bAAC%5d%5bx265%5d.mkv",
 				"id": 1,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/nawa.jpg",
