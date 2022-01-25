@@ -3,18 +3,44 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bHuntersekai%5d_Masa_Depan_Dari_Mirai_%5b720HD%5d%5b3F181DE7%5d.mkv",
+							{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5bKopajasubs%5d%20Date%20A%20Live%20Movie%20-%20Mayuri%20Judgment%20%5b720p%5d%5b10bit%5d%5b4D8CDE53%5d.mkv",
 				"id": 4,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/mirai.jpg",
-				"movieName": "Mirai no Mirai",
-				"movieDes": "Di sudut kota yang tenang, Kun Oota yang berusia empat tahun telah menjalani kehidupan yang manja sebagai anak tunggal dengan orang tuanya dan anjing keluarga, Yukko.  Tetapi ketika adik perempuannya yang baru, Mirai, dibawa pulang, kehidupannya yang sederhana menjadi terbalik;  tiba-tiba, itu bukan tentang dia lagi.  Terlepas dari kemarahan dan omelannya, Mirai tampaknya sekarang menjadi subjek cinta semua orang tuanya. Untuk membantunya beradaptasi dengan perubahan drastis ini, Kun melakukan perjalanan luar biasa melalui waktu, bertemu dengan masa lalu, sekarang, dan masa depan keluarganya, saat dia belajar tidak hanya apa artinya menjadi bagian dari sebuah keluarga, tetapi juga apa artinya. berarti menjadi kakak laki-laki.",
-				"movieDurasi": "01:38",
-				"movieDate": "20/July/2018",
-				"movieGenre": "Adventure, Drama, Fantasy",
-				"movieRating": "G-All",
-				"movieDownload": "http://www.huntersekai.download/2019/02/mirai-no-mirai-movie-bd-2018.html",
-				"movieSub": "Hunter No Sekai"
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/date.jpg",
+				"movieName": "Date A Live Movie: Mayuri Judgment",
+				"movieDes": "Perang (Date), dilanjutkan. Hari-hari damai Itsuka Shidou kembali tanpa harus menyelamatkan para Roh dari hari-hari pertempuran tanpa henti.  Tapi, hari-hari damai itu terganggu oleh munculnya bola misterius yang memancarkan gelombang spiritual- serta seorang gadis misterius yang menunjukkan dirinya pada saat yang sama.  Apa tujuannya mengawasi Shidou......?",
+				"movieDurasi": "01:12",
+				"movieDate": "22/Agustus/2015",
+				"movieGenre": "Romance, Sci-Fi, Harem",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2016/03/date-live-movie-mayuri-judgment-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
+			},
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bKopajasubs%5d%20Trinity%20Seven%20Movie%202%ea%9e%89%20Tenkuu%20Toshokan%20to%20Shinku%20no%20Maou%20%5bBD%5d%5b720p%5d%5b487E6888%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/trinity2.jpg",
+				"movieName": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+				"movieDes": "Kasuga Arata yang merupakan kandidat raja iblis bersama Asami Lilith dan yang lainnya melakukan penyelidikan pada suatu reruntuhan. Tiba-tiba saja ada cahaya terang yang jatuh mengarah ke mereka. Setelah itu mereka tiba di Perpus Langit dan muncullah seseorang yang mirip dengan Arata. Kemudian dia mengatakan sesuatu yang mengejutkan pada Arata dan yang lainnya. Dia berkata bahwa Lilith merupakan putri dari raja iblis dunia lain tersebut.",
+				"movieDurasi": "01:00",
+				"movieDate": "29/Maret/2019",
+				"movieGenre": "Action, Comedy, Fantasy, Romance, Ecchi, Harem",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2019/07/trinity-seven-movie-02.html",
+				"movieSub": "Kopajasubs"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bKopajasubs%5d%20Trinity%20Seven%20Movie%201%ea%9e%89%20Yuukyuu%20Toshokan%20to%20Rekinjutsu%20Shoujo%20%5bBD%5d%5b720p%5d%5b7EDEDA77%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/trinity1.jpg",
+				"movieName": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+				"movieDes": "Suatu hari, Kasuga Arata, kandidat raja iblis yang memiliki elemen raja iblis menyentuh kitab sihir Asami Lilith, Hermes Apocrypa. Kemudian tubuhnya menjadi bercahaya dan muncullah seorang gadis muda di hadapannya. Dia menamakannya Lilim dan Lilim menjadi dekat dengan Arata dan Lilith yang dia kira sebagai orang tuanya. Tapi di saat yang sama 'Perpus Abadi' bangkit dengan ciptaan alkemis terkuat di dalamnya bernama 'Raja Iblis Putih'. Raja Iblis Putih ini berencana mengalahkan Arata dan Trinity Seven untuk menjadi Raja Iblis yang sebenarnya. Bisakah Arata dan Trinity Seven menghadapi dan bertahan dari serangan Raja Iblis Putih?",
+				"movieDurasi": "00:55",
+				"movieDate": "25/Februari/2017",
+				"movieGenre": "Action, Comedy, Fantasy, Romance, Ecchi, Harem, School",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2018/09/trinity-seven-movie-01.html",
+				"movieSub": "Kopajasubs"
 			}
 		]
 	},
@@ -374,7 +400,7 @@
 				"movieDurasi": "01:38",
 				"movieDate": "20/July/2018",
 				"movieGenre": "Adventure, Drama, Fantasy",
-				"movieRating": "G-All",
+				"movieRating": "G-Semua Umur",
 				"movieDownload": "http://www.huntersekai.download/2019/02/mirai-no-mirai-movie-bd-2018.html",
 				"movieSub": "Hunter No Sekai"
 			},
@@ -382,7 +408,7 @@
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bKopajasubs%5d%20Sayonara%20no%20Asa%20ni%20Yakusoku%20no%20Hana%20o%20Kazarou%20%5bBD%5d%5b720p%5d%5b0191037B%5d.mkv",
 				"id": 2,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/sayo.jpg",
-				"movieName": "ERROR FORMAT. Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+				"movieName": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
 				"movieDes": "Penduduk Iolph telah hidup dengan kesehariannya dalam menenun kain bernama Hibiol di suatu pulau terpencil. Penampilan mereka akan berhenti di usia remaja dan mereka memiliki umur sampai ratusan tahun. Mereka juga dijuluki sebagai Suku Perpisahan dan telah dianggap sebagai makhluk legenda oleh orang luar. Maquia, seorang gadis Iolph yang tidak memiliki orang tua, menghabiskan waktu damainya bersama teman-temannya, tetapi dia dalam hatinya dia merasa sangat kesepian. Kemudian pasukan dari Mezarte datang menyerang mereka karena menginginkan darah keturunan Iolph yang terkenal akan umur panjangnya. Maquia pun berhasil lolos karena amukan Renato yang terkena penyakit mata merah. Setelahnya Maquia bertemu dengan seorang bayi yang dia beri nama Erial. Maquia membesarkan Erial hingga beranjak dewasa namun penampilan dirinya sama sekali tidak berubah seperti dulu.",
 				"movieDurasi": "01:55",
 				"movieDate": "24/Februari/2018",
