@@ -3,7 +3,20 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-							{
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bRAZ%5d%20Gekijouban%20Youjo%20Senki%20-%20Movie%20%20%5bBD%5d%20%5b720p%5d%20%5b510303F0%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/senki.jpg",
+				"movieName": "Youjo Senki Movie",
+				"movieDes": "Dengan pasukannya yang menyapu seluruh benua, Kekaisaran tampaknya tak terbendung.  Setelah mengamankan kemenangan atas sisa-sisa tentara Republik, kemenangan akhir Kekaisaran akhirnya dalam jangkauan.  Namun, awan gelap berkumpul di Timur.  Federasi Rusia yang dipimpin komunis sedang mengumpulkan pasukan di perbatasan baratnya, bersiap untuk memasuki perang.  Didukung oleh detasemen penyihir sukarelawan Sekutu — di antaranya adalah Mary Sioux, putri seorang prajurit yang dibunuh oleh Tanya Degurechaff — Federasi bertekad untuk menyebarkan keyakinan komunis dan membuat Kekaisaran bertekuk lutut. Sementara itu, Tanya dan batalionnya kembali ke ibukota kekaisaran dari front selatan.  Setibanya mereka, mereka ditugaskan untuk menyelidiki pergerakan pasukan di perbatasan dengan Federasi.  Setiap eskalasi kekerasan pada titik ini dapat menyebabkan konflik baru, menjerumuskan dunia ke dalam perang global yang menghancurkan. Akankah Kekaisaran pada akhirnya muncul sebagai pemenang dari perjuangannya, atau akankah runtuh di hadapan musuh yang lebih unggul dan ideologi yang sangat berbeda?",
+				"movieDurasi": "01:38",
+				"movieDate": "08/Februari/2019",
+				"movieGenre": "Action, Militer",
+				"movieRating": "R-17+",
+				"movieDownload": "https://zensubs.xyz/youjo-senki-movie-bd/",
+				"movieSub": "ZenSub"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5bZensubs%5d%20Seitokai%20Yakuindomo%20The%20Movie%202%20(720p)%20%5b0EAD104B%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/seito2.jpg",
@@ -16,7 +29,7 @@
 				"movieDownload": "https://zensubs.xyz/ketos-sableng-movie-2/",
 				"movieSub": "ZenSub"
 			},
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bZenSub-L%5d%20Seitokai%20Movie%20%5bDVD%20576p%5d%5b92B9A9BB%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/seito1.jpg",
