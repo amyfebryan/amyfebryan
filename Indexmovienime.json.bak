@@ -3,7 +3,7 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-							{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5bKopajasubs%5d%20Date%20A%20Live%20Movie%20-%20Mayuri%20Judgment%20%5b720p%5d%5b10bit%5d%5b4D8CDE53%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/date.jpg",
@@ -16,7 +16,7 @@
 				"movieDownload": "https://blog.kopajasubs.info/2016/03/date-live-movie-mayuri-judgment-subtitle-indonesia.html",
 				"movieSub": "Kopajasubs"
 			},
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bKopajasubs%5d%20Trinity%20Seven%20Movie%202%ea%9e%89%20Tenkuu%20Toshokan%20to%20Shinku%20no%20Maou%20%5bBD%5d%5b720p%5d%5b487E6888%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/trinity2.jpg",
@@ -256,6 +256,19 @@
 		"categoryTitle": "2019",
 		"categoryItemList": [
 			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bKopajasubs%5d%20Trinity%20Seven%20Movie%202%ea%9e%89%20Tenkuu%20Toshokan%20to%20Shinku%20no%20Maou%20%5bBD%5d%5b720p%5d%5b487E6888%5d.mkv",
+				"id": 5,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/trinity2.jpg",
+				"movieName": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+				"movieDes": "Kasuga Arata yang merupakan kandidat raja iblis bersama Asami Lilith dan yang lainnya melakukan penyelidikan pada suatu reruntuhan. Tiba-tiba saja ada cahaya terang yang jatuh mengarah ke mereka. Setelah itu mereka tiba di Perpus Langit dan muncullah seseorang yang mirip dengan Arata. Kemudian dia mengatakan sesuatu yang mengejutkan pada Arata dan yang lainnya. Dia berkata bahwa Lilith merupakan putri dari raja iblis dunia lain tersebut.",
+				"movieDurasi": "01:00",
+				"movieDate": "29/Maret/2019",
+				"movieGenre": "Action, Comedy, Fantasy, Romance, Ecchi, Harem",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2019/07/trinity-seven-movie-02.html",
+				"movieSub": "Kopajasubs"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bBDFansub%5d%20Kaijuu%20no%20Kodomo%20The%20Movie%20%5bBD%5d%5b720p%5d%5bx265%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/kaju.jpg",
@@ -369,7 +382,7 @@
 				"movieDate": "20/September/2019",
 				"movieGenre": "Drama, Romance, Sci-Fi",
 				"movieRating": "PG-13",
-				"movieDownload": "http://www.huntersekai.download/2020/04/hello-world-movie-bd-2019-subtitle-indonesia.html",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/04/hello-world-movie-subtitle-indonesia.html",
 				"movieSub": "BDFansub"
 			},
 			{
@@ -382,7 +395,7 @@
 				"movieDate": "11/Oktober/2019",
 				"movieGenre": "Drama, Romance, Supernatural, Music",
 				"movieRating": "PG-13",
-				"movieDownload": "https://bdfansub.blogspot.com/2020/04/hello-world-movie-subtitle-indonesia.html",
+				"movieDownload": "http://www.huntersekai.download/2020/06/sembiru-langitmu-bd.html",
 				"movieSub": "Hunter No Sekai"
 			}
 		]
@@ -436,6 +449,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2017",
 		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bKopajasubs%5d%20Trinity%20Seven%20Movie%201%ea%9e%89%20Yuukyuu%20Toshokan%20to%20Rekinjutsu%20Shoujo%20%5bBD%5d%5b720p%5d%5b7EDEDA77%5d.mkv",
+				"id": 3,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/trinity1.jpg",
+				"movieName": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+				"movieDes": "Suatu hari, Kasuga Arata, kandidat raja iblis yang memiliki elemen raja iblis menyentuh kitab sihir Asami Lilith, Hermes Apocrypa. Kemudian tubuhnya menjadi bercahaya dan muncullah seorang gadis muda di hadapannya. Dia menamakannya Lilim dan Lilim menjadi dekat dengan Arata dan Lilith yang dia kira sebagai orang tuanya. Tapi di saat yang sama 'Perpus Abadi' bangkit dengan ciptaan alkemis terkuat di dalamnya bernama 'Raja Iblis Putih'. Raja Iblis Putih ini berencana mengalahkan Arata dan Trinity Seven untuk menjadi Raja Iblis yang sebenarnya. Bisakah Arata dan Trinity Seven menghadapi dan bertahan dari serangan Raja Iblis Putih?",
+				"movieDurasi": "00:55",
+				"movieDate": "25/Februari/2017",
+				"movieGenre": "Action, Comedy, Fantasy, Romance, Ecchi, Harem, School",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2018/09/trinity-seven-movie-01.html",
+				"movieSub": "Kopajasubs"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bBDFansub%5d%20Fireworks%20-%20Uchiage%20Hanabi%20%5bBD%5d%5b1080p%5d%5bx265%5d.mkv",
 				"id": 2,
@@ -494,6 +520,25 @@
 				"movieRating": "PG-13",
 				"movieDownload": "https://bdfansub.blogspot.com/2019/04/kimi-no-na-wa-bd-subtitle-indonesia.html",
 				"movieSub": "BDFansub"
+			}
+		]
+	},
+	{
+		"categoryId": 1,
+		"categoryTitle": "2015",
+		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5bKopajasubs%5d%20Date%20A%20Live%20Movie%20-%20Mayuri%20Judgment%20%5b720p%5d%5b10bit%5d%5b4D8CDE53%5d.mkv",
+				"id": 1,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/date.jpg",
+				"movieName": "Date A Live Movie: Mayuri Judgment",
+				"movieDes": "Perang (Date), dilanjutkan. Hari-hari damai Itsuka Shidou kembali tanpa harus menyelamatkan para Roh dari hari-hari pertempuran tanpa henti.  Tapi, hari-hari damai itu terganggu oleh munculnya bola misterius yang memancarkan gelombang spiritual- serta seorang gadis misterius yang menunjukkan dirinya pada saat yang sama.  Apa tujuannya mengawasi Shidou......?",
+				"movieDurasi": "01:12",
+				"movieDate": "22/Agustus/2015",
+				"movieGenre": "Romance, Sci-Fi, Harem",
+				"movieRating": "R-17",
+				"movieDownload": "https://blog.kopajasubs.info/2016/03/date-live-movie-mayuri-judgment-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
 			}
 		]
 	}
