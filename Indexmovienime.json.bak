@@ -197,7 +197,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2020",
 		"categoryItemList": [
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bRezyuSubs%5d%20Dounika%20Naru%20Hibi%20(Happy-Go-Lucky%20Days)%20BD.mkv",
 				"id": 8,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/botgirl.jpg",
@@ -307,7 +307,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2019",
 		"categoryItemList": [
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bZenSubs%5d%20Ta%20ga%20Tame%20no%20Alchemist%20%5bBD%20720p%20HEVC%20x265%2012-bit%5d%20%5b7316A00D%5d.mkv",
 				"id": 7,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/tame.jpg",
@@ -586,7 +586,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2016",
 		"categoryItemList": [
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2016/%5bBdfansub%5d%20Suki%20Ni%20Naru%20Sono%20Shunkan%20Wo.%20%5bBd%5d%5b1080Hi10p%5d%5bHevc%5d%5bHdr10%5d.mkv",
 				"id": 3,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/suki.jpg",
@@ -646,7 +646,7 @@
 			}
 		]
 	},
-		{
+	{
 		"categoryId": 1,
 		"categoryTitle": "2008",
 		"categoryItemList": [
