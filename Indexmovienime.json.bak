@@ -3,7 +3,20 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-					{
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bKopajasubs%5d%20Kyochuu%20Rettou%20Movie%20%5b720p%5d%5b978A1984%5d.mkv",
+				"id": 4,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/kyo.jpg",
+				"movieName": "Kyochuu Rettou Movie",
+				"movieDes": "Setelah kecelakaan pesawat ketika wisata sekolah, Oribe Mutsumi dan teman sekolahnya jadi terdampar di suatu pulau. Mutsumi bertemu dengan orang yang selamat lain dan menggunakan pengetahuan tentang alam liar untuk membantu mereka. Dia berpendapat bahwa bantuan akan tiba dalam waktu tiga hari lagi, yang mana waktu itu bukanlah waktu yang lama untuk bertahan. Tapi dia tidak mengetahui bahwa serangga di pulau tersebut berukuran besar dan menjadi pembunuh manusia. Pengetahuannya tentang serangga sekarang bisa sangat membantu dirinya dan teman-temanya untuk lolos dan bertahan hidup dari ancaman serangga pemakan manusia yang sedang mengintai mereka.",
+				"movieDurasi": "01:16",
+				"movieDate": "10/Januari/2020",
+				"movieGenre": "Horror",
+				"movieRating": "R+-Mild Nudity",
+				"movieDownload": "https://blog.kopajasubs.info/2020/01/kyochuu-rettou-movie-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bKopajasubs%5d%20Pokemon%20Movie%ea%9e%89%20Koko%20%5bBd%5d%5b720P%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/poke.jpg",
@@ -13,10 +26,9 @@
 				"movieDate": "25/Desember/2020",
 				"movieGenre": "Action, Adventure, Comedy, Fantasy",
 				"movieRating": "PG-Anak-anak",
-				"movieDownload": "https://rezyusubs.blogspot.com/2021/12/hells-bd-subtitle-indonesia.html",
-				"movieSub": "RezyuSubs"
+				"movieDownload": "https://blog.kopajasubs.info/2021/08/pokemon-movie-koko-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
 			}
-
 		]
 	},
 	{
@@ -159,6 +171,32 @@
 		"categoryId": 1,
 		"categoryTitle": "2020",
 		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bKopajasubs%5d%20Kyochuu%20Rettou%20Movie%20%5b720p%5d%5b978A1984%5d.mkv",
+				"id": 10,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/kyo.jpg",
+				"movieName": "Kyochuu Rettou Movie",
+				"movieDes": "Setelah kecelakaan pesawat ketika wisata sekolah, Oribe Mutsumi dan teman sekolahnya jadi terdampar di suatu pulau. Mutsumi bertemu dengan orang yang selamat lain dan menggunakan pengetahuan tentang alam liar untuk membantu mereka. Dia berpendapat bahwa bantuan akan tiba dalam waktu tiga hari lagi, yang mana waktu itu bukanlah waktu yang lama untuk bertahan. Tapi dia tidak mengetahui bahwa serangga di pulau tersebut berukuran besar dan menjadi pembunuh manusia. Pengetahuannya tentang serangga sekarang bisa sangat membantu dirinya dan teman-temanya untuk lolos dan bertahan hidup dari ancaman serangga pemakan manusia yang sedang mengintai mereka.",
+				"movieDurasi": "01:16",
+				"movieDate": "10/Januari/2020",
+				"movieGenre": "Horror",
+				"movieRating": "R+-Mild Nudity",
+				"movieDownload": "https://blog.kopajasubs.info/2020/01/kyochuu-rettou-movie-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bKopajasubs%5d%20Pokemon%20Movie%ea%9e%89%20Koko%20%5bBd%5d%5b720P%5d.mkv",
+				"id": 9,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/poke.jpg",
+				"movieName": "Pokemon Movie 23: Koko",
+				"movieDes": "Bercerita di Hutan Okoya, surga Pokemon yang dilindungi aturan ketat dan melarang pihak luar untuk menginjakkan kakinya ke dalam hutan. Cerita ini berpusat pada Koko, seorang anak yang dibesarkan oleh Pokemon dan menganggap dirinya sendiri sebagai Pokemon Mistik seperti ayahnya, Zarude. Satoshi dan Pikachu kemudian bertemu dengan Koko ketika sedang berpetualang di hutan tersebut. Film ini bertema pada 'Manusia yang dibesarkan oleh Pokemon', di mana film sebelumnya berfokus pada 'Ikatan antara Trainer dan Pokemonnya.'",
+				"movieDurasi": "01:39",
+				"movieDate": "25/Desember/2020",
+				"movieGenre": "Action, Adventure, Comedy, Fantasy",
+				"movieRating": "PG-Anak-anak",
+				"movieDownload": "https://blog.kopajasubs.info/2021/08/pokemon-movie-koko-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2020/%5bRezyuSubs%5d%20Dounika%20Naru%20Hibi%20(Happy-Go-Lucky%20Days)%20BD.mkv",
 				"id": 8,
