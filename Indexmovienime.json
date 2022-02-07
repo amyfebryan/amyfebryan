@@ -3,6 +3,19 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2004/%5bKopajasubs%5d%20Yu-Gi-Oh!%20Duel%20Monsters%20-%20Pyramid%20of%20Light%20%5bDVD%5d%5b480p%5d%5bCBD21B89%5d.mkv",
+				"id": 11,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/yugi1.jpg",
+				"movieName": "Yu☆Gi☆Oh!: Hikari no Pyramid",
+				"movieDes": "Anubis, orang jahat di Mesir Kuno yang pernah dikalahkan oleh Atem dahulu datang menuntut balas. Dengan kekuatan dari Millenium Item ke-8, Anubis datang untuk menghancurkan Yugi dan menguasai dunia.",
+				"movieDurasi": "01:41",
+				"movieDate": "13/Agus/2004",
+				"movieGenre": "Adventure, Comedy, Fantasy",
+				"movieRating": "PG-13",
+				"movieDownload": "https://blog.kopajasubs.info/2016/12/yu-gi-oh-duel-monsters-pyramid-of-light-subtitle-indonesia.html",
+				"movieSub": "Kopajasubs"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2004/%5BRezyuSubs%20-%20EmotPekmen%5D%20Mind%20Game%20%282004%29%20%5B810p%5D.mkv",
 				"id": 11,
