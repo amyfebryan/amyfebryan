@@ -632,6 +632,19 @@
 		"categoryTitle": "2017",
 		"categoryItemList": [
 			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5BRezyuSubs%5D%20Cocolors%20%5BBD%20720p%5D.mkv",
+				"id": 5,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/coco.jpg",
+				"movieName": "Cocolors",
+				"movieDes": "Ada dunia di mana hujan abu gelap yang tak berujung memenuhi langit dan menutupi bumi. Abu gelap ini membakar dan melelehkan daging manusia. Umat manusia tidak punya pilihan selain menutupi diri mereka dengan pakaian pelindung dan melarikan diri jauh ke dalam tanah. Ini adalah kisah tentang anak-anak yang tumbuh di dunia yang menakutkan ini.",
+				"movieDurasi": "00:45",
+				"movieDate": "05/May/2017",
+				"movieGenre": "Sci-Fi",
+				"movieRating": "PG-13",
+				"movieDownload": "https://rezyusubs.blogspot.com/2021/08/cocolors-bd-subtitle-indonesia.html",
+				"movieSub": "RezyuSubs"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/%5bZenSub-L%5d%20Seitokai%20Movie%20%5bDVD%20576p%5d%5b92B9A9BB%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/seito1.jpg",
@@ -765,6 +778,44 @@
 				"movieGenre": "Adventure, Comedy, Horror",
 				"movieRating": "PG-13",
 				"movieDownload": "https://rezyusubs.blogspot.com/2021/12/hells-bd-subtitle-indonesia.html",
+				"movieSub": "RezyuSubs"
+			}
+		]
+	},
+	{
+		"categoryId": 1,
+		"categoryTitle": "2004",
+		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2004/%5BRezyuSubs%20-%20EmotPekmen%5D%20Mind%20Game%20%282004%29%20%5B810p%5D.mkv",
+				"id": 1,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/mind.jpg",
+				"movieName": "Mind Game",
+				"movieDes": " Setelah melihatnya melompat ke kereta bawah tanah pada detik terakhir dan pergelangan kakinya hancur di antara pintu, Nishi terhubung kembali dengan kekasih SMP-nya, Myon. Nishi masih sangat mencintai Myon, tetapi terkejut mengetahui bahwa dia akan menikah dengan pria lain. Nishi bertemu pria yang akan menikahi Myon itu di restoran Yakitori milik keluarganya. Dua anggota Yakuza tiba-tiba datang ke tempat makan itu dan mereka mencari ayah Myon. Nishi akhirnya terbunuh ketika salah satu pria Yakuza menembakkan pistol melalui bokongnya sesaat sebelum dia ingin mencoba menyelamatkan Myon yang hampir diperkosa. Nishi yang sekarang sudah mati terbangun di sebuah tempat dan bertemu dengan Tuhan yang terus berubah bentuk dan terus mengoloknya karena mati. Tuhan memberitahu Nishi untuk masuk ke portal dan menghilang dari keberadaan dan Nishi menolak itu. Nishi pun  memilih untuk berlari melewati Tuhan dan mencoba untuk hidup kembali. Dengan pandangan baru tentang kehidupan dan pengetahuan tentang bagaimana Yakuza akan menyerangnya, Nishi membunuh anggota Yakuza yang sebelumnya membunuhnya dengan senjata Yakuza itu sendiri lalu melarikan diri dengan mobil curian bersama Myon dan kakak perempuannya.",
+				"movieDurasi": "01:44",
+				"movieDate": "07/Agus/2004",
+				"movieGenre": "Adventure, Comedy, Romance, Psychological",
+				"movieRating": "R-17+ Kekerasan",
+				"movieDownload": "https://rezyusubs.blogspot.com/2020/08/mind-game-bd-subtitle-indonesia.html",
+				"movieSub": "RezyuSubs"
+			}
+		]
+	},
+	{
+		"categoryId": 1,
+		"categoryTitle": "1995",
+		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/1995/%5BRezyuSubs%5D%20Ninku%20%28Movie%29%20%5BBD%201080p%5D%5B9F3B1BC2%5D.mkv",
+				"id": 1,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/cider.jpg",
+				"movieName": "Ninkuu (Movie)",
+				"movieDes": "Aichou si Preman? Rihoko si tubuh seksi? Touji si Cawat Merah? Shining Fuusuke? Hooter imut, Hiroyuki? Oh, yang benar saja! Orang-orang ini pikir mereka siapa? Ninku? Sayangnya Aichou, Touji, Rihoko, dan Fuusuke yang asli, membiarkan mereka melakukan perannya. Tapi sedikit yang diketahui para penipu ini ketika mereka terjebak di kota gurun kecil yang sepi dan ingin menjadi Ninku, ada harga yang harus dibayar, yaitu harus melawan Bumi Langit bersaudara yang mematikan! \\nBeruntungnya Aichou, Touji, dan Fuusuke yang asli turun tangan. Mereka adalah mimpi buruk bagi para penjahat. \\nBisakah teknik Ninku mengalahkan gaya bertarung mematikan Bumi Langit bersaudara?",
+				"movieDurasi": "00:26",
+				"movieDate": "15/Jul/1995",
+				"movieGenre": "Action, Adventure, Comedy",
+				"movieRating": "G-Semua Umur",
+				"movieDownload": "https://rezyusubs.blogspot.com/2021/04/ninku-movie-bd-subtitle-indonesia.html",
 				"movieSub": "RezyuSubs"
 			}
 		]
