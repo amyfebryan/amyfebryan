@@ -3,12 +3,38 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
-					{
-				"fileUrl": "ftp://rinnanka@ftp.rinnankanvas.my.id/public_html/movienime/2021/%5BMiyanime%5D%20Fate%20Grand%20Order%20-%20Shuukyoku%20Tokuiten%20-%20Kani%20Jikan%20Shinden%20Solomon.mp4",
+						{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAKsensei%5D%20Penguin%20Highway%20BD.mkv",
 				"id": 11,
-				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer5.jpg",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/pinging.jpg",
+				"movieName": "Penguin Highway",
+				"movieDes": "Anime menceritakan tentang Aoyama, seorang anak kecil berumur 10 tahun yang cukup cerdas untuk anak seusianya. Dirinya mencintai seorang asisten dokter gigi yang dia panggil kakak. Pada suatu hari dia menemukan bahwa sekelompok penguin bermunculan dan menghilang secara misterius di wilayah sekitarnya, dia dan teman-temannya mencoba mengungkap misteri ini.",
+				"movieDurasi": "01:58",
+				"movieDate": "17/Agus/2018",
+				"movieGenre": "Fantasy, Sci-Fi",
+				"movieRating": "PG-Semua Umur",
+				"movieDownload": "https://www.aksensei.com/2020/03/penguin-highway-bd.html",
+				"movieSub": "AKsensei"
+			},
+				{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Kimi%20No%20Suizou%20Wo%20Tabetai%20Bd.mkv",
+				"id": 11,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/kreas.jpg",
+				"movieName": "Kimi no Suizou wo Tabetai",
+				"movieDes": "Ketika musim semi di bulan April datang dan bunga sakura masih bermekaran, seorang kutu buku bernama Shiga Haruki menemukan sebuah buku di ruang tunggu rumah sakit. Sampul buku tersebut bertulisan “hidup saat sekarat”. Lalu dia tahu kalau buku harian itu adalah milik teman sekelasnya yang sangat populer dan ceria, Yamauchi Sakura. Gadis itu berkata bahwa dia menderita penyakit pankreas dan hanya memiliki waktu yang terbatas. Berusaha untuk mempertahankan kehidupannya senormal mungkin, Sakura memutuskan untuk menjalani kehidupnnya dengan merahasiakan penyakitnya. Karena semangat dan tindakan Sakura yang tak terduga, perasaan Haruki mulai berubah.",
+				"movieDurasi": "01:48",
+				"movieDate": "01/Sep/2018",
+				"movieGenre": "Drama, Romance, Slice of Life",
+				"movieRating": "PG-13",
+				"movieDownload": "https://www.aksensei.com/2020/03/kimi-no-suizou-wo-tabetai-bd.html",
+				"movieSub": "AKsensei"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5BMiyanime%5D%20Fate%20Grand%20Order%20-%20Shuukyoku%20Tokuiten%20-%20Kani%20Jikan%20Shinden%20Solomon%20-%20720P.mkv",
+				"id": 11,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/solomon.jpg",
 				"movieName": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
-				"movieDes": "Setelah berjuang melewati ketujuh Singularitas, Organisasi Keamanan Chaldea akhirnya tiba di titik akhir dari Grand Order: The Final Singularity, Grand Temple of Time: Solomon.  Sekarang adalah waktu untuk mengalahkan akar dari semua kejahatan, Salomo, Raja Penyihir.  Sekarang saatnya untuk merebut kembali masa depan.  Dengan operasi terakhir yang semakin besar, Romani Archaman mempertimbangkan pilihan yang akan segera dia buat, Mash Kyrielight memikirkan keterbatasan hidup, dan Fujimaru bersiap untuk menerima Kode Mistik baru.  Semua banyak pertemuan mereka telah mengarah pada momen ini saat Fujimaru dan Mash akhirnya memulai operasi terakhir mereka...",
+				"movieDes": "Ritsuka Fujimaru dan Mash Kyrielight baru saja menyelesaikan misi di Mesopotamia kuno abad 2655 SM. Tepatnya di Kota Uruk, tempat Raja Gilgamesh yang sedang berkuasa. Namun, belum lama tiba di Chaldea, singularitas baru terdeteksi radar. Singularitas kali ini merupakan singularitas terakhir yang berada di Solomon. Banyak kejanggalan yang ada di singularitas solomon, fujimura pun juga akan melihat satu kebenaran yang cukup menyakitkan disana.",
 				"movieDurasi": "01:34",
 				"movieDate": "30/Jul/2021",
 				"movieGenre": "Action, Fantasy, Supernatural",
@@ -21,7 +47,7 @@
 				"id": 11,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer5.jpg",
 				"movieName": "Girls & Panzer Movie",
-				"movieDes": "Setelah memenangkan turnamen Sensha-dou Nasional ke-63, gadis-gadis dari SMA Ooarai berhasil mencegah sekolah mereka ditutup oleh Kementerian Pendidikan Jepang.  Namun, masalah baru muncul di cakrawala: seorang pejabat kementerian berpendapat bahwa kesepakatan itu tidak mengikat secara hukum dan bahwa operator sekolah Ooarai akan dinonaktifkan.  Siswa dan keluarga mereka frustrasi dengan ketidakadilan ini dan diliputi keputusasaan;  tampaknya sedikit yang bisa dilakukan untuk menyelamatkan sekolah.",
+				"movieDes": "Nonton Anime Girls & Panzer Movie: Bеbеrара waktu ѕеtеlаh turnamen Sensha-do ke-63, Kementerian Pendidikan Jepang memutuskan untuk menonaktifkan Akademi mеѕkірun mеrеkа memenangkan kejuaraan. Agаr sekolahnya tetap dibuka, Miho bеrѕаmа dеngаn timnya hаruѕ memenangkan pertandingan mеlаwаn tim Sensha-do dаrі universitas. Dаlаm pertempuran yang berat ini, tim sekolahnya Miho mеndараtkаn bantuan dаrі sekolah lаіn yang ѕеbеlumnуа реrnаh mеrеkа hadapi, уаіtu tim Saunders, Kuromorimine, Anzio, St. Gloriana dаn Pravda. Tіdаk hаnуа itu, mеrеkа јugа dibantu teman-teman bаru dаrі Akademi Chihatan dаn SMA Keizoku. Bersama-sama mеrеkа bergabung untuk menyelamatkan Oarai dаrі penutupan. ",
 				"movieDurasi": "02:00",
 				"movieDate": "21/Nov/2015",
 				"movieGenre": "Militer, School",
@@ -61,6 +87,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2021",
 		"categoryItemList": [
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5BMiyanime%5D%20Fate%20Grand%20Order%20-%20Shuukyoku%20Tokuiten%20-%20Kani%20Jikan%20Shinden%20Solomon%20-%20720P.mkv",
+				"id": 18,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/solomon.jpg",
+				"movieName": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+				"movieDes": "Setelah berjuang melewati ketujuh Singularitas, Organisasi Keamanan Chaldea akhirnya tiba di titik akhir dari Grand Order: The Final Singularity, Grand Temple of Time: Solomon.  Sekarang adalah waktu untuk mengalahkan akar dari semua kejahatan, Salomo, Raja Penyihir.  Sekarang saatnya untuk merebut kembali masa depan.  Dengan operasi terakhir yang semakin besar, Romani Archaman mempertimbangkan pilihan yang akan segera dia buat, Mash Kyrielight memikirkan keterbatasan hidup, dan Fujimaru bersiap untuk menerima Kode Mistik baru.  Semua banyak pertemuan mereka telah mengarah pada momen ini saat Fujimaru dan Mash akhirnya memulai operasi terakhir mereka...",
+				"movieDurasi": "01:34",
+				"movieDate": "30/Jul/2021",
+				"movieGenre": "Action, Fantasy, Supernatural",
+				"movieRating": "PG-13",
+				"movieDownload": "https://miyanime28.blogspot.com/2022/02/fategrand-order-shuukyoku-tokuiten-kani.html",
+				"movieSub": "Miyanime"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5bKopajasubs%5d%20Healin'%20GoodPrecure%20Movie%ea%9e%89%20Yume%20no%20Machi%20de%20Kyun!%20Tto%20Go%20Go!%20Daihenshin!!%20%5bBD%5d%5b720p%5d%5b148CD336%5d.mkv",
 				"id": 17,
@@ -651,6 +690,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2018",
 		"categoryItemList": [
+				{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Kimi%20No%20Suizou%20Wo%20Tabetai%20Bd.mkv",
+				"id": 7,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/kreas.jpg",
+				"movieName": "Kimi no Suizou wo Tabetai",
+				"movieDes": "Protagonis penyendiri: kutu buku yang sangat terpisah dari dunia tempat dia tinggal. Dia tidak tertarik pada orang lain dan sangat yakin bahwa tidak ada yang tertarik padanya juga.  Kisahnya dimulai ketika dia menemukan sebuah buku tulisan tangan, berjudul 'Living with Dying.'  Dia segera mengidentifikasi itu sebagai buku harian rahasia milik teman sekelasnya yang populer dan ceria, Sakura Yamauchi.  Dia kemudian menceritakan kepadanya tentang penyakit pankreas yang dia derita dan bahwa waktu yang tersisa adalah terbatas.",
+				"movieDurasi": "01:48",
+				"movieDate": "01/Sep/2018",
+				"movieGenre": "Drama, Romance, Slice of Life",
+				"movieRating": "PG-13",
+				"movieDownload": "https://www.aksensei.com/2020/03/kimi-no-suizou-wo-tabetai-bd.html",
+				"movieSub": "AKsensei"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Non%20Non%20Biyori%20Movie-%20Vacation.mkv",
 				"id": 6,
