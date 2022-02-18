@@ -3,6 +3,19 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
+					{
+				"fileUrl": "ftp://rinnanka@ftp.rinnankanvas.my.id/public_html/movienime/2021/%5BMiyanime%5D%20Fate%20Grand%20Order%20-%20Shuukyoku%20Tokuiten%20-%20Kani%20Jikan%20Shinden%20Solomon.mp4",
+				"id": 11,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer5.jpg",
+				"movieName": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+				"movieDes": "Setelah berjuang melewati ketujuh Singularitas, Organisasi Keamanan Chaldea akhirnya tiba di titik akhir dari Grand Order: The Final Singularity, Grand Temple of Time: Solomon.  Sekarang adalah waktu untuk mengalahkan akar dari semua kejahatan, Salomo, Raja Penyihir.  Sekarang saatnya untuk merebut kembali masa depan.  Dengan operasi terakhir yang semakin besar, Romani Archaman mempertimbangkan pilihan yang akan segera dia buat, Mash Kyrielight memikirkan keterbatasan hidup, dan Fujimaru bersiap untuk menerima Kode Mistik baru.  Semua banyak pertemuan mereka telah mengarah pada momen ini saat Fujimaru dan Mash akhirnya memulai operasi terakhir mereka...",
+				"movieDurasi": "01:34",
+				"movieDate": "30/Jul/2021",
+				"movieGenre": "Action, Fantasy, Supernatural",
+				"movieRating": "PG-13",
+				"movieDownload": "https://miyanime28.blogspot.com/2022/02/fategrand-order-shuukyoku-tokuiten-kani.html",
+				"movieSub": "Miyanime"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5BBDFansub%5D%20Girls%20und%20Panzer%20der%20FILM%20%5BBD%5D%5Bx265%5D%5B1080p%5D.mkv",
 				"id": 11,
@@ -16,7 +29,7 @@
 				"movieDownload": "https://bdfansub.blogspot.com/2020/01/girls-und-panzer-der-film-movie-bd-sub-indo.html",
 				"movieSub": "BDFansub"
 			},
-									{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Non%20Non%20Biyori%20Movie-%20Vacation.mkv",
 				"id": 11,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/renge.jpg",
@@ -29,7 +42,7 @@
 				"movieDownload": "https://www.aksensei.com/2020/03/non-non-biyori-movie-vacation-bd.html",
 				"movieSub": "AKsensei"
 			},
-						{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Bungo%20Stray%20Dogs-%20Dead%20Apple%20Bd.mkv",
 				"id": 11,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/bungo.jpg",
@@ -639,6 +652,32 @@
 		"categoryTitle": "2018",
 		"categoryItemList": [
 			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Non%20Non%20Biyori%20Movie-%20Vacation.mkv",
+				"id": 6,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/renge.jpg",
+				"movieName": "Non Non Biyori Movie: Vacation",
+				"movieDes": "Liburan musim panas akan berakhir. Ketika Suguru memenangkan perjalanan gratis ke Okinawa, semua lima siswa sekolah cabang Asahigaoka bersemangat untuk mengakhiri liburan mereka dengan keras. Bersama Hikage, Konomi, dan guru mereka serta pemilik toko permen, semua orang pergi ke Okinawa untuk perjalanan tiga hari yang menyenangkan. Di sana, Natsumi berteman dengan Aoi, gadis yang membantu di hotel tempat mereka menginap.",
+				"movieDurasi": "01:11",
+				"movieDate": "25/Agus/2018",
+				"movieGenre": "Comedy, Slice of Life",
+				"movieRating": "PG-13",
+				"movieDownload": "https://www.aksensei.com/2020/03/non-non-biyori-movie-vacation-bd.html",
+				"movieSub": "AKsensei"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5BAksensei%5D%20Bungo%20Stray%20Dogs-%20Dead%20Apple%20Bd.mkv",
+				"id": 5,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/bungo.jpg",
+				"movieName": "Bungou Stray Dogs: Dead Apple",
+				"movieDes": "Selama berminggu-minggu, panti asuhan Nakajima Atsushi telah diganggu oleh harimau mistis yang hanya dia sadari. Diduga berada di belakang insiden aneh itu, wanita berusia 18 tahun itu tiba-tiba diusir dari panti asuhan dan dibiarkan kelaparan, tuna wisma, dan berkeliaran di kota. Saat kelaparan di tepi sungai, Atsushi menyelamatkan seorang pria yang agak eksentrik bernama Dazai Osamu dari tenggelam. Penggila bunuh diri yang aneh dan detektif supernatural, Dazai telah menyelidiki harimau yang sama yang telah meneror bocah itu. Bersama dengan mitra Dazai, Kunikida Doppo, mereka memecahkan misteri itu, tetapi resolusinya membuat Atsushi berada di tempat yang sempit. Ketika berbagai peristiwa aneh terjadi, Atsushi dipaksa bergabung dengan perusahaan penyelidik supernatural mereka, menangani kasus-kasus yang tidak biasa yang tidak bisa ditangani oleh polisi, bersama dengan banyak rekan kerjanya yang penuh teka-teki.",
+				"movieDurasi": "01:30",
+				"movieDate": "03/Mar/2018",
+				"movieGenre": "Action, Comedy, Mystery, Supernatural",
+				"movieRating": "R-17+",
+				"movieDownload": "https://www.aksensei.com/2020/03/bungou-stray-dogs-dead-apple-bd.html",
+				"movieSub": "AKsensei"
+			},
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/%5bKopajasubs%5d%20Hugtto!%20PrecureFutari%20wa%20Precure%ea%9e%89%20All%20Stars%20Memories%20%5bBD%5d%5b720p%5d%5b88AD53BA%5d.mkv",
 				"id": 4,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/star4.jpg",
@@ -813,6 +852,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2015",
 		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5BBDFansub%5D%20Girls%20und%20Panzer%20der%20FILM%20%5BBD%5D%5Bx265%5D%5B1080p%5D.mkv",
+				"id": 2,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer5.jpg",
+				"movieName": "Girls & Panzer Movie",
+				"movieDes": "Setelah memenangkan turnamen Sensha-dou Nasional ke-63, gadis-gadis dari SMA Ooarai berhasil mencegah sekolah mereka ditutup oleh Kementerian Pendidikan Jepang.  Namun, masalah baru muncul di cakrawala: seorang pejabat kementerian berpendapat bahwa kesepakatan itu tidak mengikat secara hukum dan bahwa operator sekolah Ooarai akan dinonaktifkan.  Siswa dan keluarga mereka frustrasi dengan ketidakadilan ini dan diliputi keputusasaan;  tampaknya sedikit yang bisa dilakukan untuk menyelamatkan sekolah.",
+				"movieDurasi": "02:00",
+				"movieDate": "21/Nov/2015",
+				"movieGenre": "Militer, School",
+				"movieRating": "PG-13",
+				"movieDownload": "https://bdfansub.blogspot.com/2020/01/girls-und-panzer-der-film-movie-bd-sub-indo.html",
+				"movieSub": "BDFansub"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5bKopajasubs%5d%20Date%20A%20Live%20Movie%20-%20Mayuri%20Judgment%20%5b720p%5d%5b10bit%5d%5b4D8CDE53%5d.mkv",
 				"id": 1,

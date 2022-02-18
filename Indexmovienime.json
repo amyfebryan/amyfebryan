@@ -3,6 +3,19 @@
 		"categoryId": 0,
 		"categoryTitle": "Update Terbaru",
 		"categoryItemList": [
+					{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5BMiyanime%5D%20Fate%20Grand%20Order%20-%20Shuukyoku%20Tokuiten%20-%20Kani%20Jikan%20Shinden%20Solomon.mp4",
+				"id": 11,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/panzer5.jpg",
+				"movieName": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+				"movieDes": "Setelah berjuang melewati ketujuh Singularitas, Organisasi Keamanan Chaldea akhirnya tiba di titik akhir dari Grand Order: The Final Singularity, Grand Temple of Time: Solomon.  Sekarang adalah waktu untuk mengalahkan akar dari semua kejahatan, Salomo, Raja Penyihir.  Sekarang saatnya untuk merebut kembali masa depan.  Dengan operasi terakhir yang semakin besar, Romani Archaman mempertimbangkan pilihan yang akan segera dia buat, Mash Kyrielight memikirkan keterbatasan hidup, dan Fujimaru bersiap untuk menerima Kode Mistik baru.  Semua banyak pertemuan mereka telah mengarah pada momen ini saat Fujimaru dan Mash akhirnya memulai operasi terakhir mereka...",
+				"movieDurasi": "01:34",
+				"movieDate": "30/Jul/2021",
+				"movieGenre": "Action, Fantasy, Supernatural",
+				"movieRating": "PG-13",
+				"movieDownload": "https://miyanime28.blogspot.com/2022/02/fategrand-order-shuukyoku-tokuiten-kani.html",
+				"movieSub": "Miyanime"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2015/%5BBDFansub%5D%20Girls%20und%20Panzer%20der%20FILM%20%5BBD%5D%5Bx265%5D%5B1080p%5D.mkv",
 				"id": 11,
