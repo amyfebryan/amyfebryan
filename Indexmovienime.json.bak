@@ -476,7 +476,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2019",
 		"categoryItemList": [
-				{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bAKsensei%5d%20Hakubo%20BD.mkv",
 				"id": 14,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hakubo.jpg",
@@ -489,7 +489,7 @@
 				"movieDownload": "https://www.aksensei.com/2020/07/bokura-no-nanokakan-sensou-bd-sub-indo.html",
 				"movieSub": "AKsensei"
 			},
-				{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bAKsensei%5d%20Hakubo%20BD.mkv",
 				"id": 13,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/hakubo.jpg",
