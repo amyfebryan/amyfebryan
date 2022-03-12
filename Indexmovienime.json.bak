@@ -30,7 +30,7 @@
 				"movieSub": "AKsensei"
 			},
 			{
-				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/AKsensei%20-%20Haikara-san%20ga%20Tooru%20Movie%201-%20Benio,%20Hana%20no%2017-sai.mkv",
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/AKsensei%20-%20Haikara-san%20ga%20Tooru%20Movie1.mkv",
 				"id": 0,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/haikara1.jpg",
 				"movieName": "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
@@ -489,7 +489,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2019",
 		"categoryItemList": [
-				{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2019/%5bAKsensei%5d%20Human%20Lost-%20Ningen%20Shikkaku%20BD.mkv",
 				"id": 0,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/humanlost.jpg",
@@ -781,7 +781,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2018",
 		"categoryItemList": [
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2018/AKsensei%20-%20Haikara-san%20ga%20Tooru%20Movie%202-%20Hana%20no%20Tokyo%20Dai%20Roman.mkv",
 				"id": 0,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/haikara2.jpg",
@@ -904,7 +904,7 @@
 		"categoryId": 1,
 		"categoryTitle": "2017",
 		"categoryItemList": [
-					{
+			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2017/AKsensei%20-%20Haikara-san%20ga%20Tooru%20Movie%201-%20Benio,%20Hana%20no%2017-sai.mkv",
 				"id": 0,
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/haikara1.jpg",
