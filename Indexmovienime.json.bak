@@ -22,6 +22,19 @@
 		"categoryId": 1,
 		"categoryTitle": "2021",
 		"categoryItemList": [
+				{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5BHuntersekai%5D%20Summer%20Ghost%20BD%20%5B720HD%5D%5B4442C83E%5D.mkv",
+				"id": 20,
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/ghos.jpg",
+				"movieName": "Summer Ghost",
+				"movieDes": "Pernahkah kamu mendengar tentang Hantu Musim Panas? Tomoya, Aoi, dan Ryo adalah siswa sekolah menengah yang bertemu melalui Internet. Legenda urban dari Hantu Musim Panas adalah hantu seorang wanita muda yang muncul saat kembang api dinyalakan. Tomoya adalah tidak dapat melangkah ke kehidupan yang diinginkannya. Aoi tidak dapat menemukan tempatnya di dunia. Masa depan cerah Ryo tiba-tiba tertutup baginya. Masing-masing dari mereka memiliki alasan sendiri untuk bertemu dengan Hantu Musim Panas. Pada malam musim panas ketika kehidupan dan kematian berpotongan, kemana masing-masing pikiran mereka akan pergi?",
+				"movieDurasi": "00:35",
+				"movieDate": "12/Nov/2021",
+				"movieGenre": "Supernatural",
+				"movieRating": "PG-13",
+				"movieDownload": "http://www.huntersekai.download/2022/03/summer-ghost.html",
+				"movieSub": "Hunter No Sekai"
+			},
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5BERA%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5B720p%5D.mkv",
 				"id": 19,
