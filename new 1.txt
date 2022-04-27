@@ -1,0 +1,14 @@
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2021/%5bHuntersekai%5d%20Senandungkan%20Setitik%20Harmoni%20-%20WebDL%20%5b720HD%5d%5b82AFACD9%5d.mkv",
+				"id": 24,
+				"urutanMovie": "24",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/aino.jpg",
+				"movieName": "Ai no Utagoe wo Kikasete",
+				"movieDes": "£££££££££££££",
+				"movieDurasi": "01:49",
+				"movieDate": "29/Okt/2021",
+				"movieGenre": "Drama, Sci-Fi, Music, School",
+				"movieRating": "PG-13",
+				"movieDownload": "http://www.huntersekai.download/2022/04/ai-no-utagoe-wo-kikasete.html",
+				"movieSub": "Hunter No Sekai"
+			},
