@@ -6,7 +6,7 @@
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2000/%5bRebahsubs%5d%20Blood%20-%20The%20Last%20Vampire%20(2000)%20(Bd720p,%20Hevc%2010Bit,%20Aac-2.0Ch).mkv",
 				"id": 0,
-				"urutanMovie": "",
+				"urutanMovie": "3",
 				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/blood.jpg",
 				"movieName": "Blood: ​The Last Vampire",
 				"movieDes": "Teropterids adalah binatang jahat yang berpose sebagai manusia dan hidup hanya untuk meminum darah manusia. Untungnya bagi dunia manusia ada kelompok yang berdedikasi untuk menghancurkan mereka. Seorang gadis misterius dan merenung bernama Saya adalah pembunuh teropterid terbaik yang pernah ada, dan sekarang, di Jepang tahun 1960-an, dia dikirim ke pangkalan militer AS yang mungkin dipenuhi ...",
@@ -20,7 +20,7 @@
 		]
 	},
 	{
-		"categoryId": 1,
+		"categoryId": 2,
 		"categoryTitle": "Bubble",
 		"categoryItemList": [
 			{
@@ -40,10 +40,9 @@
 		]
 	},
 	{
-		"categoryId": 1,
+		"categoryId": 3,
 		"categoryTitle": "Fruits Basket: Prelude",
 		"categoryItemList": [
-			
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bHuntersekai%5d%20Fruits%20Basket%20-%20prelude%20-%20BD%20%5b720HD%5d%5b63B17674%5d.mkv",
 				"id": 1,
