@@ -23,6 +23,7 @@
 	{
 		"categoryId": 2,
 		"categoryTitle": "Bubble",
+		"categoryGenre": "Drama, Fantasy, Slice of Life",
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bRapta%5d%20Bubble%202022%20480p%20%5bKusonime%5d.mkv",
@@ -43,6 +44,7 @@
 	{
 		"categoryId": 3,
 		"categoryTitle": "Fruits Basket: Prelude",
+		"categoryGenre": "Drama, Romance, Slic of Life, Shoujo",
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bHuntersekai%5d%20Fruits%20Basket%20-%20prelude%20-%20BD%20%5b720HD%5d%5b63B17674%5d.mkv",
