@@ -18,5 +18,39 @@
 				"movieSub": "RebahSubs"
 			}
 		]
+	},
+		{
+		"categoryId": 1,
+		"categoryTitle": "2022",
+		"categoryItemList": [
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bRapta%5d%20Bubble%202022%20480p%20%5bKusonime%5d.mkv",
+				"id": 2,
+				"urutanMovie": "2",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/bubble.jpg",
+				"movieName": "Bubble",
+				"movieDes": "Berpusat di Tokyo yang terbengkalai, dipenuhi gelembung, dan gravitasinya tak normal, seorang pemuda berbakat melakukan pertemuan penting dengan seorang gadis misterius. Tokyo yang sekarang terpisah dari dunia luar, kini menjadi taman bermain bagi sekelompok remaja yang kehilangan keluarga, menjadi medan pertempuran tim parkour yang melompat dari gedung ke gedung. Hibiki adalah seorang ace muda yang dikenal karena gaya permainannya yang berbahaya. Suatu hari ia membuat gerakan sembrono dan jatuh ke laut. Ia diselamatkan oleh Uta, seorang gadis yang memiliki kekuatan misterius. Pertemuan mereka menjadi awal takdir yang mengubah dunia.",
+				"movieDurasi": "01:40",
+				"movieDate": "28/Apr/2022",
+				"movieGenre": "Drama, Fantasy, Slice of Life",
+				"movieRating": "PG-13",
+				"movieDownload": "https://kusonime.com/bubble-subtitle-indonesia/",
+				"movieSub": "Rapta"
+			},
+			{
+				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bHuntersekai%5d%20Fruits%20Basket%20-%20prelude%20-%20BD%20%5b720HD%5d%5b63B17674%5d.mkv",
+				"id": 1,
+				"urutanMovie": "1",
+				"imageUrl": "https://rinnankanvas.my.id/movienime/server/gambar/fruit.jpg",
+				"movieName": "Fruits Basket: Prelude",
+				"movieDes": "Film ini akan menjadi omnibus untuk serial anime tiga musim, termasuk prekuel Kyouko to Katsuya no Monogatari (The Story of Kyouko and Katsuya), serta adegan baru yang ditulis oleh pencipta asli Natsuki Takaya yang terjadi setelah serial anime nya.",
+				"movieDurasi": "01:28",
+				"movieDate": "18/Feb/2022",
+				"movieGenre": "Drama, Romance, Slic of Life, Shoujo",
+				"movieRating": "PG-13",
+				"movieDownload": "http://www.huntersekai.download/2022/04/fruits-basket-prelude.html",
+				"movieSub": "Hunter No Sekai"
+			}
+		]
 	}
 ]
