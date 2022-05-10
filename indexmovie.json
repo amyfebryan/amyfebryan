@@ -2,7 +2,6 @@
 	{
 		"categoryId": 1,
 		"categoryTitle": "Blood: ​The Last Vampire",
-		"categoryGenre": "Horror, Supernatural, Gore, Vampire",
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2000/%5bRebahsubs%5d%20Blood%20-%20The%20Last%20Vampire%20(2000)%20(Bd720p,%20Hevc%2010Bit,%20Aac-2.0Ch).mkv",
@@ -17,7 +16,7 @@
 				"movieRating": "R-17+",
 				"movieDownload": "https://rebah.weebly.com/blood-the-last-vampire.html",
 				"movieSub": "RebahSubs"
-			},
+			}
 		]
 	}
 ]
