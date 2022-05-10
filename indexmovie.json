@@ -19,9 +19,9 @@
 			}
 		]
 	},
-		{
+	{
 		"categoryId": 1,
-		"categoryTitle": "2022",
+		"categoryTitle": "Bubble",
 		"categoryItemList": [
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bRapta%5d%20Bubble%202022%20480p%20%5bKusonime%5d.mkv",
@@ -36,7 +36,14 @@
 				"movieRating": "PG-13",
 				"movieDownload": "https://kusonime.com/bubble-subtitle-indonesia/",
 				"movieSub": "Rapta"
-			},
+			}
+		]
+	},
+	{
+		"categoryId": 1,
+		"categoryTitle": "Fruits Basket: Prelude",
+		"categoryItemList": [
+			
 			{
 				"fileUrl": "https://rinnankanvas.my.id/movienime/2022/%5bHuntersekai%5d%20Fruits%20Basket%20-%20prelude%20-%20BD%20%5b720HD%5d%5b63B17674%5d.mkv",
 				"id": 1,
